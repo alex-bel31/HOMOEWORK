@@ -26,4 +26,5 @@ else
     {
         Console.Write(maximum);
     }
+Console.Write("Максимальное:  ");
 Console.Write(maximum);
